@@ -7,9 +7,10 @@ import time
 
 email= "antoni@wsb.pl"
 gender = "male"
-name = "Marcin"
-surname = "Nowak"
+firstname = "Marcin"
+lastname = "Nowak"
 password = "Qwertry123@@"
+invalid_password = "id"
 birth_day = "2"
 birth_month = 'January '
 birth_year = '2000'
